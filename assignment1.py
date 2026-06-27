@@ -2,6 +2,7 @@
 CP1404/CP5632 Assignment 1 – Albums Archive 1.0
 Name: Ding Zuotian
 Date: 20/7/2026
+GitHub: https://github.com/ZuotianDing/cp1404-a1-ZuotianDing.git
 """
 
 import csv
